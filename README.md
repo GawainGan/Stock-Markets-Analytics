@@ -15,6 +15,14 @@
 
 [Check Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module_2_Web_Scraping_and_IPO_Data_Analysis_Strategies_for_Optimal_Growth_and_Profitability.ipynb)
 
+## [Module 3](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/blob/main/03-modeling/Module_3_Colab_Time_Series_Modeling.ipynb)
+1. Framing Hypotheses and Unraveling Time-Series Predictions
+2. Heuristics and hand rules for practical predictions.
+3. Predicting time-series data: trends, seasonality, and remainder decomposition.
+4. Regression techniques for understanding data relationships.
+5. Binary classification to determine growth direction.
+6. Neural networks in analytical modelling.
+
 ### Source:
 - [Code Sample](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main)
 - [Course page](https://courses.datatalks.club/sma-zoomcamp-2024/)
