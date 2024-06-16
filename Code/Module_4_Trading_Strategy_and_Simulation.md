@@ -12,9 +12,14 @@
 [Part 1 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part1.ipynb)
 
 # 2.Less Ferature is More
+### 2.1 Define `DUMMIES_SHORT`
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_1.png' style="width: 60%;">
+
+### 2.2 Training Model with selected features
 <img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
+
+### 2.3 Return the best simuation result (best CAGR)
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_3.png' style="width: 60%;">
 
 [Part 2 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part2.ipynb)
 
