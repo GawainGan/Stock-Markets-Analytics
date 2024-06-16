@@ -9,10 +9,14 @@
 ### 1.3 Return the best simuation result (best CAGR)
 <img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module1_3.png' style="width: 90%;">
 
+[Part 1 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part1.ipynb)
+
 # 2.Less Ferature is More
 <img src='' style="width: 60%;">
 <img src='' style="width: 60%;">
 <img src='' style="width: 60%;">
+
+[Part 2 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part2.ipynb)
 
 # 2.2 Hyper Tuning
 <img src='' style="width: 60%;">
@@ -29,6 +33,8 @@
 <img src='' style="width: 60%;">
 <img src='' style="width: 60%;">
 
+[Part 2.2 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part2_HyperTuning.ipynb)
+
 # 3. Predicting Strong Future Growth
 ### 3.1 New column `is_strong_positive_growth_5d_future`
 <img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module3_1.png' style="width: 60%;">
@@ -38,6 +44,8 @@
 
 ### 3.3 Return the best simuation result (best CAGR)
 <img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module3_3.png' style="width: 80%;">
+
+[Part 3 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part3.ipynb)
 
 # 4. Expand the Strategy
 In the trading simulation mentioned above, we can implement at least two detailed improvements without requiring extensive financial knowledge:
