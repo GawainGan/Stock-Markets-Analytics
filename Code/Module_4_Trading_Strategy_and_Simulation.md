@@ -16,7 +16,7 @@
 <img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_1.png' style="width: 60%;">
 
 ### 2.2 Training Model with selected features
-<img src='' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_2_.png' style="width: 60%;">
 
 ### 2.3 Return the best simuation result (best CAGR)
 <img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_3.png' style="width: 60%;">
@@ -24,19 +24,25 @@
 [Part 2 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part2.ipynb)
 
 # 2.2 Hyper Tuning
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
-<img src='' style="width: 60%;">
+
+## Decision Tree Classifier
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_DecisionTree_1.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_DecisionTree_2.png' style="width: 60%;">
+
+## Random Forest
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_RandomForest_1.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_RandomForest_2.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_RandomForest_3.png' style="width: 60%;">
+
+## Logistic Regression
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_LogisticRegression_1.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_LogisticRegression_2.png' style="width: 60%;">
+
+## Neural Network
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_NeuralNetwork_1.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_NeuralNetwork_2.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_NeuralNetwork_3.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Src/Module4_Pic/Module2_NeuralNetwork_4.png' style="width: 60%;">
 
 [Part 2.2 Notebook](https://github.com/GawainGan/Stock-Markets-Analytics/blob/main/Code/Module4/Module4_Part2_HyperTuning.ipynb)
 
